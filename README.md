@@ -30,3 +30,5 @@ https://adventofcode.com/2021
 | 24 |  |  |
 | 25 |  |  |
 
+[Table inspired by r0f1](https://github.com/r0f1/adventofcode2021)
+
