@@ -6,7 +6,7 @@ https://adventofcode.com/2021
 |---|---|---|
 | 01 | [Sonar sweep](https://adventofcode.com/2021/day/1) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day1/AOC1.py) |
 | 02 | [Dive!](https://adventofcode.com/2021/day/2) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day2/AOC2.py) |
-| 03 |  |  |
+| 03 | [Binary Diagnostic](https://adventofcode.com/2021/day/3) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day3/AOC3.py) |
 | 04 |  |  |
 | 05 |  |  |
 | 06 |  |  |
