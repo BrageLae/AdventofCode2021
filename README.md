@@ -9,7 +9,7 @@ https://adventofcode.com/2021
 | 03 | [Binary Diagnostic](https://adventofcode.com/2021/day/3) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day3/AOC3.py) |
 | 04 | [Giant Squid](https://adventofcode.com/2021/day/4) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day4/AOC4.py) |
 | 05 | [Hydrothermal Venture](https://adventofcode.com/2021/day/5) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day5/AOC5.py) |
-| 06 |  |  |
+| 06 | [Lanternfish](https://adventofcode.com/2021/day/6) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day6/AOC6.py) |
 | 07 |  |  |
 | 08 |  |  |
 | 09 |  |  |
