@@ -10,7 +10,7 @@ https://adventofcode.com/2021
 | 04 | [Giant Squid](https://adventofcode.com/2021/day/4) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day4/AOC4.py) |
 | 05 | [Hydrothermal Venture](https://adventofcode.com/2021/day/5) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day5/AOC5.py) |
 | 06 | [Lanternfish](https://adventofcode.com/2021/day/6) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day6/AOC6.py) |
-| 07 |  |  |
+| 07 | [The Treachery of Whales](https://adventofcode.com/2021/day/7) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day7/AOC7.py) |
 | 08 |  |  |
 | 09 |  |  |
 | 10 |  |  |
