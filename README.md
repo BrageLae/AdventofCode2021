@@ -11,7 +11,7 @@ https://adventofcode.com/2021
 | 05 | [Hydrothermal Venture](https://adventofcode.com/2021/day/5) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day5/AOC5.py) |
 | 06 | [Lanternfish](https://adventofcode.com/2021/day/6) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day6/AOC6.py) |
 | 07 | [The Treachery of Whales](https://adventofcode.com/2021/day/7) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day7/AOC7.py) |
-| 08 |  |  |
+| 08 | [Seven Segment Search](https://adventofcode.com/2021/day/8) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day8/AOC8.py) |
 | 09 |  |  |
 | 10 |  |  |
 | 11 |  |  |
