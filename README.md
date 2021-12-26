@@ -13,7 +13,7 @@ https://adventofcode.com/2021
 | 07 | [The Treachery of Whales](https://adventofcode.com/2021/day/7) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day7/AOC7.py) |
 | 08 | [Seven Segment Search](https://adventofcode.com/2021/day/8) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day8/AOC8.py) |
 | 09 | [Smoke Basin](https://adventofcode.com/2021/day/9) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day9/AOC9.py) |
-| 10 |  |  |
+| 10 | [Syntax Scoring](https://adventofcode.com/2021/day/10) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day10/AOC10.py) |
 | 11 |  |  |
 | 12 |  |  |
 | 13 |  |  |
