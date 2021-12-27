@@ -14,7 +14,7 @@ https://adventofcode.com/2021
 | 08 | [Seven Segment Search](https://adventofcode.com/2021/day/8) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day8/AOC8.py) |
 | 09 | [Smoke Basin](https://adventofcode.com/2021/day/9) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day9/AOC9.py) |
 | 10 | [Syntax Scoring](https://adventofcode.com/2021/day/10) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day10/AOC10.py) |
-| 11 |  |  |
+| 11 | [Dumbo Octopus](https://adventofcode.com/2021/day/11) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day11/AOC11.py) |
 | 12 |  |  |
 | 13 |  |  |
 | 14 |  |  |
