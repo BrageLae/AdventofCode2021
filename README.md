@@ -17,7 +17,7 @@ https://adventofcode.com/2021
 | 11 | [Dumbo Octopus](https://adventofcode.com/2021/day/11) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day11/AOC11.py) |
 | 12 | [Passage Pathing](https://adventofcode.com/2021/day/12) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day12/AOC12.py) |
 | 13 |  |  |
-| 14 |  |  |
+| 14 | [Extended Polymerization](https://adventofcode.com/2021/day/14) | [python](https://github.com/BrageLae/AdventofCode2021/blob/main/day14/AOC14.py) |
 | 15 |  |  |
 | 16 |  |  |
 | 17 |  |  |
